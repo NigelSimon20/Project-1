@@ -10,8 +10,9 @@
     padding: 50px 0;
 }
 
-.banner img{
+.banner .star{
     width: 18%;
+    margin-top: 40px;
 }
 
 .banner h1{
