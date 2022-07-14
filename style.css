@@ -8,10 +8,6 @@ p{
     font-size: 17px !important;
 }
 
-/* h2{
-    font-size: 50px !important;
-} */
-
 .banner{
     background-color: #1abc9c; 
     text-align: center;
@@ -194,7 +190,11 @@ footer h3{
 }
 
 footer .icons img{
-    width: 40px;
+    width: 35px;
+    border: 2px solid white;
+    padding: 8px;
+    border-radius: 100%;
+    margin-right: 10px;
 }
 
 .copyright{
