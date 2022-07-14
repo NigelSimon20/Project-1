@@ -106,6 +106,22 @@ p{
     padding: 15px;
 }
 
+.about button:hover{
+    color: #1abc9c;
+    cursor: pointer;
+    background-color: white; 
+    border: 1px solid white;
+    transition: 1s;
+}
+
+.contact button:hover{
+    color: #1abc9c;
+    cursor: pointer;
+    background-color: white; 
+    border: 1px solid #1abc9c;
+    transition: 1s;
+}
+
 .contact{
     text-align: center;
     padding: 30px 120px;
@@ -195,6 +211,7 @@ footer .icons img{
     padding: 8px;
     border-radius: 100%;
     margin-right: 10px;
+    cursor: pointer;
 }
 
 .copyright{
